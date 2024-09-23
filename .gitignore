@@ -12,3 +12,5 @@ files/
 homebrew-taskell/
 .jekyll-cache/
 .cmt.bkp
+obj/
+bin/
